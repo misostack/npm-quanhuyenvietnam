@@ -1,0 +1,1 @@
+https://dulieu.itrithuc.vn/dataset/5f1d2488-1a55-40d8-bb27-4c5395395ad8/resource/cb229cf5-c943-47b9-ad8b-9610ea0f90cf/download/c030000_diadanhhuyen_vn_060717.geojson

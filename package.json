@@ -1,0 +1,19 @@
+{
+  "name": "npm-quanhuyenvietnam",
+  "version": "0.1.0",
+  "description": "districts of viet nam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misostack/npm-quanhuyenvietnam.git"
+  },
+  "author": "misostack",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/misostack/npm-quanhuyenvietnam/issues"
+  },
+  "homepage": "https://github.com/misostack/npm-quanhuyenvietnam#readme"
+}
